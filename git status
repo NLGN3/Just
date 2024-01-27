@@ -1,0 +1,81 @@
+[33mcommit e72da263917a451c3075e423e87b13e8caf57292[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0bdfc05 dccf953
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Fri Sep 15 18:18:29 2023 +0300
+
+    Merge pull request #1 from NLGN3/feature_1
+    
+    ONE MORE THERD ROW?
+
+[33mcommit dccf9539aecd01a82ec835cbd2457c2a5463cf77[m[33m ([m[1;31morigin/feature_1[m[33m)[m
+Merge: 678c69d 0bdfc05
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Fri Sep 15 18:17:38 2023 +0300
+
+    Merge branch 'main' into feature_1
+
+[33mcommit 678c69df60a7feba910c8f9d15b6afb8acadbd1a[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Fri Sep 15 18:12:28 2023 +0300
+
+    ONE MORE THERD ROW?
+
+[33mcommit 0bdfc0511eb51f406f7d467963b38f1fb927bc6a[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Fri Sep 15 18:09:48 2023 +0300
+
+    Added therd line
+
+[33mcommit ca253fc04e5c5ca9993ae8cfc5fd3f39ffff51f7[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Fri Sep 15 17:36:22 2023 +0300
+
+    ну новый файл добавил опять
+    и снова еще одну
+
+[33mcommit 19176b5162524c5e59d1a9dc3e8fc95109cf79a2[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Fri Sep 15 16:11:14 2023 +0300
+
+    добавил новый файликЭЭ
+
+[33mcommit b730873f86051b526fad7050ed7d4179f7ea74f8[m
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Thu Sep 14 14:31:35 2023 +0300
+
+    Update README.md
+
+[33mcommit bb65d4e651424d7a03f79a2a288dc1cf73756a54[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Thu Sep 14 11:18:46 2023 +0300
+
+    one row more
+
+[33mcommit 507573fc8e2034753cc0610679758a230ef67c9e[m
+Author: NLGN3 <a1945230@yandex.ru>
+Date:   Thu Sep 14 11:14:38 2023 +0300
+
+    изменил пару строк
+    yes
+
+[33mcommit c97249ca77e4cd5c9a8d3525ffa67bb8e8f74a29[m
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Thu Sep 14 10:42:23 2023 +0300
+
+    Create README.md
+
+[33mcommit ef683755d248ecdcf2fbed96bf04ef9802d2839b[m
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Wed Sep 13 17:26:15 2023 +0300
+
+    Update just_one
+    
+    second edition
+
+[33mcommit b2c0fbe076ee9985a6cb33077f40ac5f9aca0e59[m
+Author: NLGN3 <135740171+NLGN3@users.noreply.github.com>
+Date:   Wed Sep 13 17:24:27 2023 +0300
+
+    Create just_one
+    
+    first redaction
